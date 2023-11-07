@@ -11,8 +11,8 @@ Global
 		Release|Default = Release|Default
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DA0E02B1-6BA5-4587-8808-DE81A39CF39E}.Debug|Default.ActiveCfg = Debug
-		{DA0E02B1-6BA5-4587-8808-DE81A39CF39E}.Debug|Default.Build.0 = Debug
+		{DA0E02B1-6BA5-4587-8808-DE81A39CF39E}.Debug|Default.ActiveCfg = Release
+		{DA0E02B1-6BA5-4587-8808-DE81A39CF39E}.Debug|Default.Build.0 = Release
 		{DA0E02B1-6BA5-4587-8808-DE81A39CF39E}.Release|Default.ActiveCfg = Release
 		{DA0E02B1-6BA5-4587-8808-DE81A39CF39E}.Release|Default.Build.0 = Release
 	EndGlobalSection
@@ -21,14 +21,5 @@ Global
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1C3600EA-19FB-45A9-AB8B-F86A38B9CB0D}
-	EndGlobalSection
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 2
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = https://davidvazquezpalestino.visualstudio.com/
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = InstallHelper\\InstallHelper.vdproj
-		SccProjectName1 = InstallHelper
-		SccLocalPath1 = InstallHelper
 	EndGlobalSection
 EndGlobal
